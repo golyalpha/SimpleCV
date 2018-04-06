@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52950662-5047-4150-9463-fc5ec111ef7a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Color.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/ColorModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/ColorModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Display.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/DrawingLayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/DrawingLayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/EXIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/EXIF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/BOFFeatureExtractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/BOFFeatureExtractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/Blob.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/Blob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/BlobMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/BlobMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/Detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/FaceRecognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/FaceRecognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/FeatureExtractorBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/FeatureExtractorBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/FeatureUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/FeatureUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/Features.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/Features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/HaarCascade.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/HaarCascade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/CardDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/CardDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/CardUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/CardUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/PlayingCardFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/PlayingCardFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/TestScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/TestScript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Features/PlayingCards/cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Font.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Font.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/ImageClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/ImageClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/LineScan.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/LineScan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/KNNClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/KNNClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/MLTestSuite.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/MLTestSuite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/NaiveBayesClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/NaiveBayesClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/SVMClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/SVMClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/ShapeContextClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/ShapeContextClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/TemporalColorTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/TemporalColorTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/TestTemporalColorTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/TestTemporalColorTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/TreeClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/TreeClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/TurkingModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/TurkingModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/TurkingModuleExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/TurkingModuleExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/query_imgs/flickrapi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/query_imgs/flickrapi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/MachineLearning/query_imgs/get_imgs_geo_gps_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/MachineLearning/query_imgs/get_imgs_geo_gps_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Segmentation/SegmentationBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Segmentation/SegmentationBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Shell/Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Shell/Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Shell/Shell.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Shell/Shell.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Shell/Tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Shell/Tutorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Shell/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Shell/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Tracking/LKTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Tracking/LKTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Tracking/MFTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Tracking/MFTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/Tracking/SURFTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/Tracking/SURFTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/arduino/CannyStream-arduino.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/arduino/CannyStream-arduino.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/CannyCam.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/CannyCam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/CoinDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/CoinDetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/EdgeSnap.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/EdgeSnap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/FeatureDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/FeatureDetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/FisherFaceRecognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/FisherFaceRecognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/Least-Squares-Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/Least-Squares-Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/MotionTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/MotionTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/TemplateMatching.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/TemplateMatching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/TrainFacialRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/TrainFacialRecognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/balltrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/balltrack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/barcode_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/barcode_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/dealwithit.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/dealwithit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/face-substition.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/face-substition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/facetrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/facetrack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/pills.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/pills.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/detection/x-ray.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/detection/x-ray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/display/RenderExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/display/RenderExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/display/gtk-example-camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/display/gtk-example-camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/display/gtk-example.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/display/gtk-example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/display/simplecam.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/display/simplecam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/display/tkinter-example.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/display/tkinter-example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/kinect/kinect-motion-blur.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/kinect/kinect-motion-blur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/machine-learning/color_cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/machine-learning/color_cluster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/machine-learning/machine-learning_nuts-vs-bolts.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/machine-learning/machine-learning_nuts-vs-bolts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/GreenScreen.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/GreenScreen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/ImageMotionBlur.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/ImageMotionBlur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/MorphologyExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/MorphologyExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/Partycam.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/Partycam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/RotationExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/RotationExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/colorsegmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/colorsegmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/motionblur.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/motionblur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/threedee.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/threedee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/manipulation/tvexample.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/manipulation/tvexample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/tracking/camshift.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/tracking/camshift.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/tracking/lk.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/tracking/lk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/tracking/mftrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/tracking/mftrack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/tracking/surftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/tracking/surftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/util/CaptureEncodeUpload.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/util/CaptureEncodeUpload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/web-based/cloudanimator/cloudanimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/web-based/cloudanimator/cloudanimator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/web-based/cloudanimator/images2gif.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/web-based/cloudanimator/images2gif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/web-based/cloudcam/cloudcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/web-based/cloudcam/cloudcam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/examples/web-based/webdisplay/flask-server.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/examples/web-based/webdisplay/flask-server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/ShapeContext/test_c.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/ShapeContext/test_c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/ShapeContext/test_multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/ShapeContext/test_multi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/YCrCbtests.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/YCrCbtests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_cameras.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_cameras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_optional.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_optional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_stereovision.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_stereovision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_vimba.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_vimba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_vimba_async.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_vimba_async.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/test_vimba_manyshots.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/test_vimba_manyshots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tests/vcamera_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tests/vcamera_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCV/tools/Calibrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCV/tools/Calibrate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/doc/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install/mac/findmods.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install/mac/findmods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/demo_cv_sync_multi.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/demo_cv_sync_multi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/demo_cv_thresh_sweep.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/demo_cv_thresh_sweep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/demo_tilt.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/demo_tilt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install/win/OpenKinect/freenect-examples/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/mkvirt.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/mkvirt.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NixTEST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NixTEST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleCV/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+              <folding>
+                <element signature="e#46#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageClass.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleCV/ImageClass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="3598" column="112" selection-start-line="3598" selection-start-column="88" selection-end-line="3598" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MFTracker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleCV/Tracking/MFTracker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="158" column="79" selection-start-line="158" selection-start-column="79" selection-end-line="158" selection-end-column="79" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stream.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleCV/Stream.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Camera.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleCV/Camera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="485" column="86" selection-start-line="485" selection-start-column="86" selection-end-line="485" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IntType</find>
+      <find>import cv</find>
+      <find>flask</find>
+      <find>InstanceType</find>
+      <find>SocketServer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NixTEST.py" />
+        <option value="$PROJECT_DIR$/SimpleCV/base.py" />
+        <option value="$PROJECT_DIR$/SimpleCV/ImageClass.py" />
+        <option value="$PROJECT_DIR$/SimpleCV/Tracking/MFTracker.py" />
+        <option value="$PROJECT_DIR$/SimpleCV/Stream.py" />
+        <option value="$PROJECT_DIR$/SimpleCV/Camera.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="264" />
+    <option name="y" value="34" />
+    <option name="width" value="1390" />
+    <option name="height" value="999" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SimpleCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleCV" type="462c0819:PsiDirectoryNode" />
+              <item name="SimpleCV" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52950662-5047-4150-9463-fc5ec111ef7a" name="Default" comment="" />
+      <created>1523026105940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523026105940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18072917" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SimpleCV/base.py</url>
+          <line>3</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SimpleCV/examples/web-based/webdisplay/flask-server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NixTEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleCV/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleCV/ImageClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="3598" column="112" selection-start-line="3598" selection-start-column="88" selection-end-line="3598" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleCV/Tracking/MFTracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="158" column="79" selection-start-line="158" selection-start-column="79" selection-end-line="158" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleCV/Stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleCV/Camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="485" column="86" selection-start-line="485" selection-start-column="86" selection-end-line="485" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
