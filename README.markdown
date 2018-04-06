@@ -1,8 +1,10 @@
+# Preface
+
+This repo holds the version of SimpleCV I use for my own projects. Feel free to use it if you wish, but if you're projects are designed for the original SCV, be warned.
+
 --------------------------
 # SimpleCV
 --------------------------
-
-[![Build Status](https://travis-ci.org/sightmachine/SimpleCV.png?branch=develop)](https://travis-ci.org/sightmachine/SimpleCV)
 
 
 Quick Links:
