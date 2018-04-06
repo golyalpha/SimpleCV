@@ -5429,7 +5429,7 @@ class Image:
         #original coordinates
         src = ((0, 0), (self.width-1, 0), (self.width-1, self.height-1), (0, self.height-1))
         pWarp = cv.CreateMat(3, 3, cv.CV_32FC1) #create an empty 3x3 matrix
-        cv.GetPerspectiveTransform(src, cornerpoints, pWarp) #figure out the warp matrix
+        cv.GetPerspectiveTransform(cornerpoints, src, pWarp) #figure out the warp matrix
 
 
         return self.transformPerspective(pWarp)
