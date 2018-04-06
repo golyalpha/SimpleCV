@@ -10,6 +10,7 @@ Pillow = "*"
 ipython = "*"
 svgwrite = "*"
 Pygame = "*"
+opencv-python = "*"
 
 [dev-packages]
 
