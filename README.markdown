@@ -1,6 +1,6 @@
 # Preface
 
-This repo holds the version of SimpleCV I use for my own projects. Feel free to use it if you wish, but if you're projects are designed for the original SCV, be warned, they may not work.
+This repo holds the version of SimpleCV I use for my own projects. Feel free to use it if you wish, but if your projects are designed for the original SCV, be warned, they may not work.
 
 --------------------------
 # SimpleCV
